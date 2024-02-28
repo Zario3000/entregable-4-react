@@ -1,0 +1,30 @@
+.card-container{
+    color: black;
+    max-width: 100%;
+    padding: 10px;
+    border: 2px solid gray;
+}
+.card-container:hover{
+    box-shadow: 5px 5px 10px gray, -5px -5px 10px gray;
+}
+h3{
+    color: rgb(35, 35, 62);
+}
+li{
+    list-style: none;
+    padding: 5px;
+}
+.card-date{
+    color: gray;
+}
+.card-container-btn{
+    padding: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+.card-btn-delete{
+    margin: 0 10px 0 0;
+}
+hr{
+    color: rgba(117, 114, 114, 0.516);
+}
